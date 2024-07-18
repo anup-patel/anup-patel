@@ -10,7 +10,7 @@ I'm an experienced Data Scientist with a strong background in Artificial Intelli
 ### 📫 Connect with Me
 
 - LinkedIn: [Anup Patel's LinkedIn](https://www.linkedin.com/in/anup2328/)
-- Personal Website: [Anup Patel's Website](https://anup.patel.github.io)
+- Personal Website: [Anup Patel's Website](https://anup-patel.github.io)
 - YouTube: [Anup Patel's YouTube Channel](https://www.youtube.com/@AnupAI)
 
 Feel free to reach out if you have any questions or opportunities to collaborate!
